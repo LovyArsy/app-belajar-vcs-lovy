@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.smkth.app_belajar_vcs_lovy"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.smkth.app_belajar_vcs_lovy"
